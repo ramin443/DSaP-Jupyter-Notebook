@@ -1,0 +1,4 @@
+{"id": "skiena2017data", "title": "The data science design manual", "authors": ["Steven Skiena"], "year": 2017, "publisher": "Springer"}
+{"id": "newUniqueID224", "title": "New Book Title", "authors": ["Author Name"], "year": 2024, "publisher": "Publisher Name"}
+{"id": "newUniqueID2242", "title": "New Book Title", "authors": ["Author Name"], "year": 2024, "publisher": "Publisher Name"}
+{"id": "newUniqueID22421", "title": "New Book Title", "authors": ["Author Name"], "year": 2024, "publisher": "Publisher Name"}
